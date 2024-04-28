@@ -24,7 +24,7 @@ I'm a passionate Full Stack Developer and BBA student based in Ahmedabad, India.
 
 ## Get in Touch
 
-- LinkedIn: [[Your LinkedIn Profile](link-to-your-linkedin-profile)](https://www.linkedin.com/in/apuchandradas5568/)
+- LinkedIn: https://www.linkedin.com/in/apuchandradas5568/
 - Email: apuchandradas5568@gmail.com
 
 Feel free to connect with me for collaborations, projects, or just to say hello! 😊
