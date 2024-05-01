@@ -17,10 +17,12 @@ I'm a passionate Full Stack Developer and BBA student based in Ahmedabad, India.
 - Tools: GitHub, VS Code, Postman
 
 ## Projects
+    #Frontend
+    - [Messanger] : https://whatsapp-clone-c27ab.web.app/
+    - [Google Search Clone] : https://search-clone-6fdf3.web.app/ 
 
-- [Social Media App] :  Built a full-stack social media application with features like user authentication, posting, liking, and more.
-- [Blog Application]: Developed a MERN stack blog application covering key aspects of web development.
-- [Real Estate Website]: Created a responsive real estate website using Firebase for authentication and data storage.
+    #Backend
+    - [TravelBliss] : https://travelbliss-8cdf9.web.app/
 
 ## Get in Touch
 
