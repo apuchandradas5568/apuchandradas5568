@@ -17,12 +17,13 @@ I'm a passionate Full Stack Developer and BBA student based in Ahmedabad, India.
 - Tools: GitHub, VS Code, Postman
 
 ## Projects
-    #Frontend
-    - [Messanger] : https://whatsapp-clone-c27ab.web.app/
-    - [Google Search Clone] : https://search-clone-6fdf3.web.app/ 
 
-    #Backend
-    - [TravelBliss] : https://travelbliss-8cdf9.web.app/
+   # Frontend
+    - Messanger : https://whatsapp-clone-c27ab.web.app/
+    - Google Search Clone: https://search-clone-6fdf3.web.app/ 
+    
+   # Backend
+    - TravelBliss: https://travelbliss-8cdf9.web.app/
 
 ## Get in Touch
 
