@@ -3,7 +3,6 @@
 
 📧 **Email:** [apuchandradas5568@gmail.com](mailto:apuchandradas5568@gmail.com)  
 📞 **Phone:** +91 704 - 625 - 0401  
-👨‍💻 **GitHub:** [apuchandradas5568](https://github.com/apuchandradas5568)
 
 ## 🚀 Skills
 
