@@ -7,8 +7,11 @@
 ## 🚀 Skills
 
 **Frontend:** HTML, CSS, JavaScript, React.js, Redux, Tailwind, Next.js, TypeScript
+
 **Backend:** Node.js, Express.js, MongoDB, Mongoose, Prisma ORM
+
 **Others:** GitHub, Photoshop, Illustrator, Figma, Docker, Kubernetes, Firebase, Shadcn, Material-UI
+
 **Languages:** English, Bengali (Native), Hindi, Chinese - HSK2
 
 ## 💼 Projects
